@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:2:1-6:12
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:2:1-6:12
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:2:1-6:12
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:2:1-6:12
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:2:1-6:12
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:2:1-6:12
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:3:7-27
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:5:7-34
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml:4:7-33
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+uses-sdk
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+		ADDED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+		ADDED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
+		INJECTED from H:\CSE v2\AndroidStudio\GoogleVoiceAndFaceRecognization\OpenCV\java\AndroidManifest.xml
